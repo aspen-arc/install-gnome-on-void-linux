@@ -86,4 +86,5 @@ $ sudo ln -sv /etc/sv/cronie /var/service
 ```
 $ sudo xbps-install tilix firefox firefox-i18n-en-US
 ```
-## Reboot
+# Finish
+Now you can reboot your system and log in with gnome!
